@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 const AllProject = () => {
   return <div className="container mx-auto py-16 text-base">
   <div>
@@ -6,27 +8,27 @@ const AllProject = () => {
   </div>
   <div className="grid grid-cols-2 gap-8">
     <div className="shadow-lg rounded-[20px] p-7">
-          <img src="/img/project.png" alt="" />
+          <Image src="/img/project.png" alt=""  width={100} height={100} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <img src="/img/project.png" alt="" />
+          <Image src="/img/project.png" alt="" width={100} height={100} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <img src="/img/project.png" alt="" />
+          <Image src="/img/project.png" alt="" width={100} height={100} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <img src="/img/project.png" alt="" />
+          <Image src="/img/project.png" alt="" width={100} height={100} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <img src="/img/project.png" alt="" />
+          <Image src="/img/project.png" alt="" width={100} height={100} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <img src="/img/project.png" alt="" />
+          <Image src="/img/project.png" alt="" width={100} height={100} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
    

@@ -1,4 +1,5 @@
 import BrandList from "./BrandList";
+import Image from 'next/image'
 
 const HeroList = () => {
   return <section className="bg-[#D7F5DC] -mt-32 pb-10 ">
@@ -9,7 +10,7 @@ const HeroList = () => {
         <button className="flex flex-row items-center gap-1 py-3 px-5 border-2 border-brand bg-brand rounded-lg text-lg text-white">Get Started</button>
       </div>
       <div>
-        <img className='w-full' src="/img/hero.png" alt="" />
+        <Image className='w-full' src="/img/hero.png"  alt="" width={100} height={100} />
       </div>
     </div>
     <BrandList/>
