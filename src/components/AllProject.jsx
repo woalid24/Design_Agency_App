@@ -8,27 +8,27 @@ const AllProject = () => {
   </div>
   <div className="grid grid-cols-2 gap-8">
     <div className="shadow-lg rounded-[20px] p-7">
-          <Image src="/img/project.png" alt=""  width={100} height={100} />
+          <Image src="/img/project.png" alt=""  width={544} height={472} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <Image src="/img/project.png" alt="" width={100} height={100} />
+          <Image src="/img/project.png" alt="" width={544} height={472} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <Image src="/img/project.png" alt="" width={100} height={100} />
+          <Image src="/img/project.png" alt="" width={544} height={472} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <Image src="/img/project.png" alt="" width={100} height={100} />
+          <Image src="/img/project.png" alt="" width={544} height={472} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <Image src="/img/project.png" alt="" width={100} height={100} />
+          <Image src="/img/project.png" alt="" width={544} height={472} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
     <div className="shadow-lg rounded-[20px] p-7">
-          <Image src="/img/project.png" alt="" width={100} height={100} />
+          <Image src="/img/project.png" alt="" width={544} height={472} />
           <p className="font-semibold text-2xl pt-6 uppercase">Lorem ipsum dolor sit consectutar</p>
     </div>
    

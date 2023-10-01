@@ -10,7 +10,7 @@ const HeroList = () => {
         <button className="flex flex-row items-center gap-1 py-3 px-5 border-2 border-brand bg-brand rounded-lg text-lg text-white">Get Started</button>
       </div>
       <div>
-        <Image className='w-full' src="/img/hero.png"  alt="" width={100} height={100} />
+        <Image className='w-full' src="/img/hero.png"  alt="" width={408} height={271} />
       </div>
     </div>
     <BrandList/>

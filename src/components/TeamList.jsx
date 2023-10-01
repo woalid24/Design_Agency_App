@@ -13,21 +13,21 @@ const TeamList = () => {
         </div>
         <div className="flex gap-8">
           <div className="flex flex-col items-center gap-7 border-2 rounded-[20px]">
-            <Image src="/img/team.png" alt="" width={100} height={100} />
+            <Image src="/img/team.png" alt="" width={392} height={387} />
             <div className="bg-white flex items-center gap-2 rounded-full px-8 py-4 absolute translate-y-64 text-gray-600">
               <FaFacebookF /> | <FaXTwitter /> | <FaInstagram />
             </div>
             <p className="font-semibold text-3xl pb-12">Devon Lane</p>
           </div>
           <div className="flex flex-col items-center gap-7 border-2 rounded-[20px]">
-            <Image src="/img/team.png" alt="" width={100} height={100} />
+            <Image src="/img/team.png" alt="" width={392} height={387} />
             <div className="bg-white flex items-center gap-2 rounded-full px-8 py-4 absolute translate-y-64 text-gray-600">
               <FaFacebookF /> | <FaXTwitter /> | <FaInstagram />
             </div>
             <p className="font-semibold text-3xl pb-12">Devon Lane</p>
           </div>
           <div className="flex flex-col items-center gap-7 border-2 rounded-[20px]">
-            <Image src="/img/team.png" alt="" width={100} height={100} />
+            <Image src="/img/team.png" alt="" width={392} height={387} />
             <div className="bg-white flex items-center gap-2 rounded-full px-8 py-4 absolute translate-y-64 text-gray-600">
               <FaFacebookF /> | <FaXTwitter /> | <FaInstagram />
             </div>

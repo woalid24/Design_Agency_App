@@ -14,28 +14,28 @@ const AllService = () => {
             <p className="pb-12 text-[#9D9D9D] font-normal ">
               Increase your team productivity and save time with a bot that answers and fields customer inquiries
             </p>
-            <Image src="/img/hero.png" alt="" width={100} height={100} />
+            <Image src="/img/hero.png" alt="" width={600} height={650} />
           </div>
           <div className="shadow-lg rounded-[20px] px-7 py-10">
             <p className="font-semibold text-2xl pb-5 uppercase">Build & Launch without problems</p>
             <p className="pb-12 text-[#9D9D9D] font-normal ">
               Increase your team productivity and save time with a bot that answers and fields customer inquiries
             </p>
-            <Image src="/img/hero.png" alt="" width={100} height={100} />
+            <Image src="/img/hero.png" alt="" width={600} height={650} />
           </div>
           <div className="shadow-lg rounded-[20px] px-7 py-10">
             <p className="font-semibold text-2xl pb-5 uppercase">Build & Launch without problems</p>
             <p className="pb-12 text-[#9D9D9D] font-normal ">
               Increase your team productivity and save time with a bot that answers and fields customer inquiries
             </p>
-            <Image src="/img/hero.png" alt="" width={100} height={100} />
+            <Image src="/img/hero.png" alt="" width={600} height={650} />
           </div>
           <div className="shadow-lg rounded-[20px] px-7 py-10">
             <p className="font-semibold text-2xl pb-5 uppercase">Build & Launch without problems</p>
             <p className="pb-12 text-[#9D9D9D] font-normal ">
               Increase your team productivity and save time with a bot that answers and fields customer inquiries
             </p>
-            <Image src="/img/hero.png" alt="" width={100} height={100} />
+            <Image src="/img/hero.png" alt="" width={600} height={650} />
           </div>
         </div>
       </div>
